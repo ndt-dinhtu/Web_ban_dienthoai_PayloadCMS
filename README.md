@@ -1,6 +1,6 @@
 - Clone về
 - Chạy lệnh  yarn && yarn dev hoặc (npm i && npm run dev)
-- add database
+- add database https://github.com/ndt-dinhtu/data
 - Demo ảnh
 
 - Giao diện đăng nhập
